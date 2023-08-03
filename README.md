@@ -1,0 +1,3 @@
+- 👋 Hi, I'm @Soradev812
+- 👀 I'm interested in web developing
+- 🌱 I’m currently learning React and Tailwind CSS
